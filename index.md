@@ -11,7 +11,3 @@
 ## Homework-4&5
 - [Html file](Homework4-5/Hw4-5.html)
 - [R script](Homework4-5/Hw4-5.R)
-
-## Project
-- [Html file](Project/Project.html)
-- [R script](Project/Project.R)
